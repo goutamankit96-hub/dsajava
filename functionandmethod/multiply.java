@@ -8,6 +8,7 @@ public class multiply {
         int b = 8;
         int prod = multiply(a, b);
         System.out.println(" a * b :" + prod);
+        
 
     }
     
