@@ -1,4 +1,4 @@
-package lect1;
+package recursion;
 
 
 public class reverse {

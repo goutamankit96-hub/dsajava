@@ -1,4 +1,4 @@
-package lect1;
+package recursion;
 public class main {
     public static void main(String[] args) {
           System.out.println("jljfdglj");
