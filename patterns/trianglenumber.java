@@ -3,17 +3,17 @@
 public class trianglenumber {
         public static void main(String[] args){
 //reverse number
-//     int n = 3;
-//     for(int i=n; i>0; i--){  
-//         for(int j=n; j>n-i; j--){
-//             System.out.print(j);
+      int n = 3;
+       for(int i=n; i>0; i--){  
+           for(int j=n; j>n-i; j--){
+             System.out.print(j);
             
-//         }
-//         System.out.println();
+           }
+   System.out.println();
 
-//     }
-// }
-// }
+     }
+ }
+ }
 // tatriangke same number in row
 //  public static void main(String[] args){
 
