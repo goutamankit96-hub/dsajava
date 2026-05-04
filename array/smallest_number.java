@@ -1,4 +1,5 @@
-public class smallest_numbers {
+public class smallest_number {
+   
      public static int smallestNumber(int[] numbers){
         int smallest = Integer.MAX_VALUE;
         for(int i=0; i<numbers.length;i++){
@@ -18,3 +19,5 @@ public class smallest_numbers {
 }
     
 
+
+    
