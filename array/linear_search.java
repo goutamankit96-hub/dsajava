@@ -1,6 +1,6 @@
 public class linear_search {
     public static int linearSearch(int[] numbers,int key){
-        for(int i=0;i<numbers.length;i++){
+          for(int i=0;i<numbers.length;i++){
             if(numbers[i]==key){
                 return i;
             }
@@ -16,4 +16,5 @@ public class linear_search {
     }
     
 }
+    
     
