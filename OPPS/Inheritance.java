@@ -19,7 +19,7 @@ class Animal {
         System.out.println("breathes");
     }
 }
-// Derived class
+// Dericlassved 
 class Fish extends Animal {
     int fins ;
 
